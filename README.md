@@ -24,7 +24,7 @@ How to Use
 ===========
 
 1. Checker require source code file along with input and output file to be placed in the 
-   Software’s directory.
+   Softwareâ€™s directory.
 
 	NOTE:   source file must be named  - file.cpp
 		Input file must be named   - input.txt
@@ -105,7 +105,7 @@ CONTACT
 =======
 
 Sameer Gupta
-E-mail: sameerpowercomputer@yahoo.co.in
+E-mail: sameergupta1812@gmail.com
 
 
 THANK YOU FOR USING CHECKER++ V1.0!!! :)
